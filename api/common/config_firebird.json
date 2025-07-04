@@ -1,0 +1,9 @@
+{
+  "db_type": "firebird",
+  "host": "172.20.96.56",
+  "database": "/mnt/d/Projects/Databases/Firebird/5.0/s4lal_developer.fdb",
+  "user": "sysdba",
+  "password": "ENC:gAAAAABoTAK-XO3CnCePFZxk5yniTMHinJIBqeNUIw8hvt34os0fxYcMJbPds4KH_6E78faXR9k5-0JsOXXwM-3wDEmvi_NNPA==",
+  "port": 3050,
+  "charset": "UTF8"
+}

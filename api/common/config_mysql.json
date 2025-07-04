@@ -1,0 +1,8 @@
+{
+  "db_type": "mysql",
+  "host": "172.20.96.56",
+  "database": "s4laldeveloper",
+  "user": "root",
+  "password": "ENC:gAAAAABoTAK-Y8TvZPT3pHSGHFM5N5lGrIfq-Xas-gE9q35b6V5Py-8xDx9DyxnnwA8x8-LuUW4PKI9OiAwubzI-5wXyrlLMSw==",
+  "port": 3306
+}

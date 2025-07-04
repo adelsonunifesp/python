@@ -1,0 +1,596 @@
+[
+    {
+        "texto": "Qual é a cor azul?",
+        "tipo": "cor",
+        "opcoes": ["blue_color.png", "red_color.png", "green_color.png", "orange_color.png", "pink_color.png"],
+        "resposta": "blue_color.png"
+    },
+    {
+        "texto": "Onde está a cor vermelha?",
+        "tipo": "cor",
+        "opcoes": ["yellow_color.png", "purple_color.png", "red_color.png", "brown_color.png", "gray_color.png"],
+        "resposta": "red_color.png"
+    },
+    {
+        "texto": "Me mostre a cor amarela.",
+        "tipo": "cor",
+        "opcoes": ["green_color.png", "blue_color.png", "yellow_color.png", "pink_color.png", "white_color.png"],
+        "resposta": "yellow_color.png"
+    },
+    {
+        "texto": "Onde está o cachorro?",
+        "tipo": "animal",
+        "opcoes": ["cat.png", "dog.png", "lion.png", "bird.png", "fish.png"],
+        "resposta": "dog.png"
+    },
+    {
+        "texto": "Selecione o passarinho.",
+        "tipo": "animal",
+        "opcoes": ["bird.png", "giraffe.png", "elephant.png", "lion.png", "zebra.png"],
+        "resposta": "bird.png"
+    },
+    {
+        "texto": "Onde está o panda?",
+        "tipo": "animal",
+        "opcoes": ["panda.png", "monkey.png", "tiger.png", "lion.png", "giraffe.png"],
+        "resposta": "panda.png"
+    },
+    {
+        "texto": "Me mostre o gato.",
+        "tipo": "animal",
+        "opcoes": ["dog.png", "cat.png", "mouse.png", "rabbit.png", "snake.png"],
+        "resposta": "cat.png"
+    },
+    {
+        "texto": "Qual é o leão?",
+        "tipo": "animal",
+        "opcoes": ["tiger.png", "lion.png", "bear.2.png", "wolf.png", "fox.png"],
+        "resposta": "lion.png"
+    },
+    {
+        "texto": "Toque no elefante.",
+        "tipo": "animal",
+        "opcoes": ["elephant.png", "zebra.png", "kangaroo.png", "koala.png", "deer.png"],
+        "resposta": "elephant.png"
+    },
+    {
+        "texto": "Onde está a girafa?",
+        "tipo": "animal",
+        "opcoes": ["hippo.png", "rhino.png", "giraffe.png", "cow.png", "pig.png"],
+        "resposta": "giraffe.png"
+    },
+    {
+        "texto": "Selecione a ovelha.",
+        "tipo": "animal",
+        "opcoes": ["sheep.png", "goat.png", "chicken.png", "duck.png", "horse.png"],
+        "resposta": "sheep.png"
+    },
+    {
+        "texto": "Qual é o macaco?",
+        "tipo": "animal",
+        "opcoes": ["monkey.png", "gorilla.png", "chimpanzee.png", "squirrel.png", "sloth.png"],
+        "resposta": "monkey.png"
+    },
+    {
+        "texto": "Onde está a zebra?",
+        "tipo": "animal",
+        "opcoes": ["zebra.png", "horse.png", "donkey.png", "camel.png", "llama.png"],
+        "resposta": "zebra.png"
+    },
+    {
+        "texto": "Me mostre o tigre.",
+        "tipo": "animal",
+        "opcoes": ["lion.png", "tiger.png", "cheetah.png", "leopard.png", "jaguar.png"],
+        "resposta": "tiger.png"
+    },
+    {
+        "texto": "Toque na galinha.",
+        "tipo": "animal",
+        "opcoes": ["rooster.png", "chicken.png", "chick.png", "egg.png", "nest.png"],
+        "resposta": "chicken.png"
+    },
+    {
+        "texto": "Qual é o pato?",
+        "tipo": "animal",
+        "opcoes": ["duck.png", "goose.png", "swan.png", "pigeon.png", "owl.png"],
+        "resposta": "duck.png"
+    },
+    {
+        "texto": "Onde está o peixe?",
+        "tipo": "animal",
+        "opcoes": ["fish.png", "dolphin.png", "shark.png", "whale.png", "octopus.png"],
+        "resposta": "fish.png"
+    },
+    {
+        "texto": "Selecione a raposa.",
+        "tipo": "animal",
+        "opcoes": ["wolf.png", "fox.png", "coyote.png", "hyena.png", "dingo.png"],
+        "resposta": "fox.png"
+    },
+    {
+        "texto": "Qual é o pinguim?",
+        "tipo": "animal",
+        "opcoes": ["penguin.png", "polar_bear.png", "seal.png", "walrus.png", "arctic_fox.png"],
+        "resposta": "penguin.png"
+    },
+    {
+        "texto": "Me mostre o urso.",
+        "tipo": "animal",
+        "opcoes": ["bear.png", "grizzly_bear.png", "polar_bear.png", "panda.png", "koala.png"],
+        "resposta": "bear.png"
+    },
+    {
+        "texto": "Toque no coelho.",
+        "tipo": "animal",
+        "opcoes": ["rabbit.png", "bunny.png", "hare.png", "guinea_pig.png", "hamster.png"],
+        "resposta": "rabbit.png"
+    },
+    {
+        "texto": "Toque na bola.",
+        "tipo": "objeto",
+        "opcoes": ["ball.png", "cube.png", "star.png", "car.png", "doll.png"],
+        "resposta": "ball.png"
+    },
+    {
+        "texto": "Cadê a estrela.",
+        "tipo": "objeto",
+        "opcoes": ["ball.png", "cube.png", "star.png", "train.png", "robot.png"],
+        "resposta": "star.png"
+    },
+    {
+        "texto": "Qual é o carro?",
+        "tipo": "objeto",
+        "opcoes": ["truck.png", "bus.png", "car.png", "bicycle.png", "airplane.png"],
+        "resposta": "car.png"
+    },
+    {
+        "texto": "Me mostre o dado.",
+        "tipo": "objeto",
+        "opcoes": ["dice.png", "book.png", "pencil.png", "scissors.png", "glue.png"],
+        "resposta": "dice.png"
+    },
+    {
+        "texto": "Onde está o balão?",
+        "tipo": "objeto",
+        "opcoes": ["balloon.png", "kite.png", "top.png", "puzzle.png", "blocks.png"],
+        "resposta": "balloon.png"
+    },
+    {
+        "texto": "Selecione o trem.",
+        "tipo": "objeto",
+        "opcoes": ["train.png", "truck.png", "bus.png", "car.png", "airplane.png"],
+        "resposta": "train.png"
+    },
+    {
+        "texto": "Qual é a boneca?",
+        "tipo": "objeto",
+        "opcoes": ["doll.png", "toy.png", "robot.png", "teddy_bear.png", "action_figure.png"],
+        "resposta": "doll.png"
+    },
+    {
+        "texto": "Onde está o livro?",
+        "tipo": "objeto",
+        "opcoes": ["book.png", "notebook.png", "pen.png", "eraser.png", "ruler.png"],
+        "resposta": "book.png"
+    },
+    {
+        "texto": "Toque na tesoura.",
+        "tipo": "objeto",
+        "opcoes": ["scissors.png", "glue.png", "paper.png", "stapler.png", "paint.png"],
+        "resposta": "scissors.png"
+    },
+    {
+        "texto": "Me mostre a mochila.",
+        "tipo": "objeto",
+        "opcoes": ["backpack.png", "bag.png", "suitcase.png", "purse.png", "wallet.png"],
+        "resposta": "backpack.png"
+    },
+    {
+        "texto": "Qual é o chapéu?",
+        "tipo": "objeto",
+        "opcoes": ["hat.png", "cap.png", "scarf.png", "gloves.png", "belt.png"],
+        "resposta": "hat.png"
+    },
+    {
+        "texto": "Onde está a chave?",
+        "tipo": "objeto",
+        "opcoes": ["key.png", "lock.png", "door.png", "window.png", "light.png"],
+        "resposta": "key.png"
+    },
+    {
+        "texto": "Selecione a escova de dentes.",
+        "tipo": "objeto",
+        "opcoes": ["toothbrush.png", "toothpaste.png", "soap.png", "towel.png", "shampoo.png"],
+        "resposta": "toothbrush.png"
+    },
+    {
+        "texto": "Me mostre a régua.",
+        "tipo": "objeto",
+        "opcoes": ["ruler.png", "pencil.png", "eraser.png", "sharpener.png", "compass.png"],
+        "resposta": "ruler.png"
+    },
+    {
+        "texto": "Qual é o telefone?",
+        "tipo": "objeto",
+        "opcoes": ["phone.png", "tablet.png", "computer.png", "television.png", "radio.png"],
+        "resposta": "phone.png"
+    },
+    {
+        "texto": "Qual é a Banana?",
+        "tipo": "fruta",
+        "opcoes": ["apple.png", "banana.png", "orange.png", "strawberry.png", "grape.png"],
+        "resposta": "banana.png"
+    },
+    {
+        "texto": "Selecione a maçã.",
+        "tipo": "fruta",
+        "opcoes": ["pear.png", "apple.png", "lemon.png", "lime.png", "cherry.png"],
+        "resposta": "apple.png"
+    },
+    {
+        "texto": "Onde está a laranja?",
+        "tipo": "fruta",
+        "opcoes": ["kiwi.png", "mango.png", "orange.png", "pineapple.png", "watermelon.png"],
+        "resposta": "orange.png"
+    },
+    {
+        "texto": "Toque no morango.",
+        "tipo": "fruta",
+        "opcoes": ["blueberry.png", "raspberry.png", "strawberry.png", "peach.png", "plum.png"],
+        "resposta": "strawberry.png"
+    },
+    {
+        "texto": "Qual é a uva?",
+        "tipo": "fruta",
+        "opcoes": ["grape.png", "blackberry.png", "currant.png", "fig.png", "date.png"],
+        "resposta": "grape.png"
+    },
+    {
+        "texto": "Me mostre o abacaxi.",
+        "tipo": "fruta",
+        "opcoes": ["pineapple.png", "coconut.png", "papaya.png", "guava.png", "passion_fruit.png"],
+        "resposta": "pineapple.png"
+    },
+    {
+        "texto": "Onde está a melancia?",
+        "tipo": "fruta",
+        "opcoes": ["melon.png", "orange.png", "watermelon.png", "honeydew.png", "lime.png"],
+        "resposta": "watermelon.png"
+    },
+    {
+        "texto": "Selecione a pera.",
+        "tipo": "fruta",
+        "opcoes": ["pear.png", "quince.png", "apricot.png", "nectarine.png", "persimmon.png"],
+        "resposta": "pear.png"
+    },
+    {
+        "texto": "Qual é o limão?",
+        "tipo": "fruta",
+        "opcoes": ["lemon.png", "lime.png", "grapefruit.png", "pomelo.png", "kumquat.png"],
+        "resposta": "lemon.png"
+    },
+    {
+        "texto": "Toque no pêssego.",
+        "tipo": "fruta",
+        "opcoes": ["peach.png", "plum.png", "cherry.png", "apricot.png", "nectarine.png"],
+        "resposta": "peach.png"
+    },
+    {
+        "texto": "Qual é a cenoura?",
+        "tipo": "vegetal",
+        "opcoes": ["carrot.png", "potato.png", "onion.png", "garlic.png", "ginger.png"],
+        "resposta": "carrot.png"
+    },
+    {
+        "texto": "Onde está o tomate?",
+        "tipo": "vegetal",
+        "opcoes": ["tomato.s.png", "cucumber.png", "lettuce.png", "spinach.png", "cabbage.png"],
+        "resposta": "tomato.s.png"
+    },
+    {
+        "texto": "Me mostre a batata.",
+        "tipo": "vegetal",
+        "opcoes": ["potato.png", "sweet_potato.png", "yam.png", "tapioca.png", "cassava.png"],
+        "resposta": "potato.png"
+    },
+    {
+        "texto": "Selecione a cebola.",
+        "tipo": "vegetal",
+        "opcoes": ["onion.png", "shallot.png", "leek.png", "scallion.png", "chive.png"],
+        "resposta": "onion.png"
+    },
+    {
+        "texto": "Qual é o brócolis?",
+        "tipo": "vegetal",
+        "opcoes": ["broccoli.png", "cauliflower.png", "asparagus.png", "green_bean.png", "pea.png"],
+        "resposta": "broccoli.png"
+    },
+    {
+        "texto": "Toque no milho.",
+        "tipo": "vegetal",
+        "opcoes": ["corn.png", "wheat.png", "rice.png", "barley.png", "oats.png"],
+        "resposta": "corn.png"
+    },
+    {
+        "texto": "Onde está o pimentão?",
+        "tipo": "vegetal",
+        "opcoes": ["bell_pepper.png", "chili_pepper.png", "jalapeno.png", "habanero.png", "capsicum.png"],
+        "resposta": "bell_pepper.png"
+    },
+    {
+        "texto": "Me mostre o alface.",
+        "tipo": "vegetal",
+        "opcoes": ["lettuce.png", "cabbage.png", "spinach.png", "kale.png", "arugula.png"],
+        "resposta": "lettuce.png"
+    },
+    {
+        "texto": "Qual é o pepino?",
+        "tipo": "vegetal",
+        "opcoes": ["cucumber.png", "zucchini.png", "squash.png", "pumpkin.png", "gourd.png"],
+        "resposta": "cucumber.png"
+    },
+    {
+        "texto": "Selecione a abóbora.",
+        "tipo": "vegetal",
+        "opcoes": ["pumpkin.png", "squash.png", "gourd.png", "melon.png", "watermelon.png"],
+        "resposta": "pumpkin.png"
+    },
+    {
+        "texto": "Qual é o círculo?",
+        "tipo": "forma",
+        "opcoes": ["circle.png", "square.png", "triangle.png", "heart.png", "oval.png"],
+        "resposta": "circle.png"
+    },
+    {
+        "texto": "Me mostre o quadrado.",
+        "tipo": "forma",
+        "opcoes": ["star_shape.png", "circle.png", "square.png", "diamond.png", "rectangle.png"],
+        "resposta": "square.png"
+    },
+    {
+        "texto": "Onde está o triângulo?",
+        "tipo": "forma",
+        "opcoes": ["triangle.png", "pentagon.png", "hexagon.png", "octagon.png", "cross.png"],
+        "resposta": "triangle.png"
+    },
+    {
+        "texto": "Qual é o coração?",
+        "tipo": "forma",
+        "opcoes": ["heart.png", "star_shape.png", "circle.png", "square.png", "triangle.png"],
+        "resposta": "heart.png"
+    },
+    {
+        "texto": "Me mostre a estrela.",
+        "tipo": "forma",
+        "opcoes": ["star_shape.png", "circle.png", "square.png", "triangle.png", "oval.png"],
+        "resposta": "star_shape.png"
+    },
+    {
+        "texto": "Onde está o nariz?",
+        "tipo": "corpo",
+        "opcoes": ["nose.png", "ear.png", "mouth.png", "eye.png", "hand.png"],
+        "resposta": "nose.png"
+    },
+    {
+        "texto": "Toque na boca.",
+        "tipo": "corpo",
+        "opcoes": ["finger.png", "foot.png", "mouth.png", "head.png", "arm.png"],
+        "resposta": "mouth.png"
+    },
+    {
+        "texto": "Qual é o olho?",
+        "tipo": "corpo",
+        "opcoes": ["eye.png", "nose.png", "ear.png", "mouth.png", "hair.png"],
+        "resposta": "eye.png"
+    },
+    {
+        "texto": "Me mostre a mão.",
+        "tipo": "corpo",
+        "opcoes": ["hand.png", "foot.png", "arm.png", "leg.png", "finger.png"],
+        "resposta": "hand.png"
+    },
+    {
+        "texto": "Onde está o pé?",
+        "tipo": "corpo",
+        "opcoes": ["foot.png", "toe.png", "ankle.png", "knee.png", "elbow.png"],
+        "resposta": "foot.png"
+    },
+    {
+        "texto": "Qual é a camisa?",
+        "tipo": "roupa",
+        "opcoes": ["shirt.png", "pants.png", "dress.png", "shoe.png", "hat.png"],
+        "resposta": "shirt.png"
+    },
+    {
+        "texto": "Onde está o sapato?",
+        "tipo": "roupa",
+        "opcoes": ["sock.png", "glove.png", "shoe.png", "jacket.png", "scarf.png"],
+        "resposta": "shoe.png"
+    },
+    {
+        "texto": "Me mostre o vestido.",
+        "tipo": "roupa",
+        "opcoes": ["dress.png", "skirt.png", "blouse.png", "t_shirt.png", "sweater.png"],
+        "resposta": "dress.png"
+    },
+    {
+        "texto": "Qual é a calça?",
+        "tipo": "roupa",
+        "opcoes": ["pants.png", "shorts.png", "jeans.png", "leggings.png", "skirt.png"],
+        "resposta": "pants.png"
+    },
+    {
+        "texto": "Onde está o casaco?",
+        "tipo": "roupa",
+        "opcoes": ["jacket.png", "coat.png", "hoodie.png", "vest.png", "raincoat.png"],
+        "resposta": "jacket.png"
+    },
+    {
+        "texto": "Qual é o avião?",
+        "tipo": "transporte",
+        "opcoes": ["airplane.png", "helicopter.png", "rocket.png", "hot_air_balloon.png", "drone.png"],
+        "resposta": "airplane.png"
+    },
+    {
+        "texto": "Onde está o barco?",
+        "tipo": "transporte",
+        "opcoes": ["boat.png", "ship.png", "submarine.png", "kayak.png", "canoe.png"],
+        "resposta": "boat.png"
+    },
+    {
+        "texto": "Me mostre o ônibus.",
+        "tipo": "transporte",
+        "opcoes": ["bus.png", "van.png", "taxi.png", "train.png", "truck.png"],
+        "resposta": "bus.png"
+    },
+    {
+        "texto": "Qual é a bicicleta?",
+        "tipo": "transporte",
+        "opcoes": ["bicycle.png", "motorcycle.png", "scooter.png", "skateboard.png", "rollerblades.png"],
+        "resposta": "bicycle.png"
+    },
+    {
+        "texto": "Onde está o caminhão?",
+        "tipo": "transporte",
+        "opcoes": ["truck.png", "lorry.png", "pickup_truck.png", "dump_truck.png", "cement_mixer.png"],
+        "resposta": "truck.png"
+    },
+    {
+        "texto": "Qual é o violão?",
+        "tipo": "instrumento",
+        "opcoes": ["guitar.png", "piano.png", "drum.png", "flute.png", "violin.png"],
+        "resposta": "guitar.png"
+    },
+    {
+        "texto": "Onde está o piano?",
+        "tipo": "instrumento",
+        "opcoes": ["keyboard.png", "piano.png", "xylophone.png", "accordion.png", "harmonica.png"],
+        "resposta": "piano.png"
+    },
+    {
+        "texto": "Me mostre o tambor.",
+        "tipo": "instrumento",
+        "opcoes": ["drum.png", "cymbal.png", "tambourine.png", "maraca.png", "trumpet.png"],
+        "resposta": "drum.png"
+    },
+    {
+        "texto": "Qual é a flauta?",
+        "tipo": "instrumento",
+        "opcoes": ["flute.png", "clarinet.png", "saxophone.png", "oboe.png", "bassoon.png"],
+        "resposta": "flute.png"
+    },
+    {
+        "texto": "Onde está o violino?",
+        "tipo": "instrumento",
+        "opcoes": ["violin.png", "cello.png", "contrabass.png", "harp.png", "lyre.png"],
+        "resposta": "violin.png"
+    },
+    {
+        "texto": "Qual é a árvore?",
+        "tipo": "natureza",
+        "opcoes": ["tree.png", "flower.png", "grass.png", "cloud.png", "sun.png"],
+        "resposta": "tree.png"
+    },
+    {
+        "texto": "Onde está a flor?",
+        "tipo": "natureza",
+        "opcoes": ["flower.png", "rose.png", "tulip.png", "daisy.png", "sunflower.png"],
+        "resposta": "flower.png"
+    },
+    {
+        "texto": "Me mostre a nuvem.",
+        "tipo": "natureza",
+        "opcoes": ["cloud.png", "rain.png", "rainbow.png", "lightning.png", "wind.png"],
+        "resposta": "cloud.png"
+    },
+    {
+        "texto": "Qual é o sol?",
+        "tipo": "natureza",
+        "opcoes": ["sun.png", "moon.png", "star.png", "planet.png", "galaxy.png"],
+        "resposta": "sun.png"
+    },
+    {
+        "texto": "Onde está a montanha?",
+        "tipo": "natureza",
+        "opcoes": ["mountain.png", "hill.png", "valley.png", "river.png", "lake.png"],
+        "resposta": "mountain.png"
+    },
+    {
+        "texto": "Qual é o rosto feliz?",
+        "tipo": "emocao",
+        "opcoes": ["happy_face.png", "sad_face.png", "angry_face.png", "surprised_face.png", "scared_face.png"],
+        "resposta": "happy_face.png"
+    },
+    {
+        "texto": "Onde está o rosto triste?",
+        "tipo": "emocao",
+        "opcoes": ["happy_face.png", "sad_face.png", "angry_face.png", "surprised_face.png", "crying_face.png"],
+        "resposta": "sad_face.png"
+    },
+    {
+        "texto": "Me mostre o rosto com raiva.",
+        "tipo": "emocao",
+        "opcoes": ["happy_face.png", "sad_face.png", "angry_face.png", "confused_face.png", "smiling_face.png"],
+        "resposta": "angry_face.png"
+    },
+    {
+        "texto": "Qual criança está correndo?",
+        "tipo": "acao",
+        "opcoes": ["running_child.png", "jumping_child.png", "sleeping_child.png", "eating_child.png", "drinking_child.png"],
+        "resposta": "running_child.png"
+    },
+    {
+        "texto": "Onde a criança está pulando?",
+        "tipo": "acao",
+        "opcoes": ["running_child.png", "jumping_child.png", "reading_child.png", "writing_child.png", "playing_child.png"],
+        "resposta": "jumping_child.png"
+    },
+    {
+        "texto": "Me mostre a criança dormindo.",
+        "tipo": "acao",
+        "opcoes": ["sleeping_child.png", "waking_child.png", "dreaming_child.png", "tired_child.png", "resting_child.png"],
+        "resposta": "sleeping_child.png"
+    },
+    {
+        "texto": "Qual criança está comendo?",
+        "tipo": "acao",
+        "opcoes": ["eating_child.png", "drinking_child.png", "cooking_child.png", "baking_child.png", "serving_child.png"],
+        "resposta": "eating_child.png"
+    },
+    {
+        "texto": "Onde a criança está lendo?",
+        "tipo": "acao",
+        "opcoes": ["reading_child.png", "writing_child.png", "drawing_child.png", "painting_child.png", "singing_child.png"],
+        "resposta": "reading_child.png"
+    },
+    {
+        "texto": "Qual é o copo?",
+        "tipo": "cotidiano",
+        "opcoes": ["cup.png", "plate.png", "fork.png", "spoon.png", "knife.png"],
+        "resposta": "cup.png"
+    },
+    {
+        "texto": "Onde está a cadeira?",
+        "tipo": "cotidiano",
+        "opcoes": ["chair.png", "table.png", "bed.png", "sofa.png", "lamp.png"],
+        "resposta": "chair.png"
+    },
+    {
+        "texto": "Me mostre o relógio.",
+        "tipo": "cotidiano",
+        "opcoes": ["clock.png", "watch.png", "alarm_clock.png", "hourglass.png", "calendar.png"],
+        "resposta": "clock.png"
+    },
+    {
+        "texto": "Qual é a escova de cabelo?",
+        "tipo": "cotidiano",
+        "opcoes": ["hairbrush.png", "comb.png", "mirror.png", "toothbrush.png", "toothpaste.png"],
+        "resposta": "hairbrush.png"
+    },
+    {
+        "texto": "Onde está a toalha?",
+        "tipo": "cotidiano",
+        "opcoes": ["towel.png", "soap.png", "shampoo.png", "shower.png", "bathtub.png"],
+        "resposta": "towel.png"
+    }
+]

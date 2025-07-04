@@ -1,0 +1,9 @@
+{
+  "db_type": "postgresql",
+  "host": "172.20.96.56",
+  "database": "s4laldeveloper",
+  "user": "postgres",
+  "password": "ENC:gAAAAABoTAK-X0iyr4ddpu2v0Fhz95ugIZsbe_YzCBN4SY7-9xXkHI7TEYFt_QAPIo3i6RB8JVuQnTkzAgnXVqmY6bHDw3JWdw==",
+  "port": 5432,
+  "schema": "public"
+}
